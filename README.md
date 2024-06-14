@@ -1,0 +1,1 @@
+This repository contains the code for comparing the performance of `Mamba` vs `GPT2` on text classification task
